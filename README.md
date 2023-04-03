@@ -7,3 +7,5 @@ AWS Certified Data Analytics Speciality -> https://www.credly.com/earner/earned/
 Microsoft Certified: Azure Data Engineer Associate -> https://www.credly.com/badges/7033e042-1937-41f5-97d5-4e997d04a863
 ![Microsoft Certified Azure Data Engineer](https://user-images.githubusercontent.com/35566310/229420443-465e3ef0-82fa-4b57-993d-c70e4809e054.jpg)
 
+Microsoft Certified: Azure AI Fundamentals -> https://www.credly.com/earner/earned/badge/7f1d36c4-e6b2-4690-83ac-714a54f6a23b
+![Azure AI Fundamentals](https://user-images.githubusercontent.com/35566310/229421664-cfc2fb6c-3128-424e-94c8-e73ca845499a.jpg)
