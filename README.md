@@ -15,4 +15,5 @@ List of certifications achieved in the field of Data Engineering in multiple pla
 
 ##### Databricks Certified: Data Engineer Professional -> https://credentials.databricks.com/b4219f13-8a8c-4a8e-a23f-d756af7fffe9
 
-![image](https://github.com/VishanthSurresh/Data-Engineering-Certifications/assets/35566310/58eb95c5-6317-414e-899a-c9c2a92aabe1)
+![image](https://github.com/VishanthSurresh/Data-Engineering-Certifications/assets/35566310/af151495-9c47-48f6-a0d7-b5133e4eb3de)
+
