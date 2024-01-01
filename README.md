@@ -12,3 +12,7 @@ List of certifications achieved in the field of Data Engineering in multiple pla
 ##### Microsoft Certified: Azure AI Fundamentals -> https://www.credly.com/earner/earned/badge/7f1d36c4-e6b2-4690-83ac-714a54f6a23b
 
 ![Azure AI Fundamentals](https://user-images.githubusercontent.com/35566310/229422970-250b2650-c64b-45a7-9afe-7dd1e97edac6.jpg)
+
+##### Databricks Certified: Data Engineer Professional -> https://credentials.databricks.com/b4219f13-8a8c-4a8e-a23f-d756af7fffe9
+
+![image](https://github.com/VishanthSurresh/Data-Engineering-Certifications/assets/35566310/58eb95c5-6317-414e-899a-c9c2a92aabe1)
